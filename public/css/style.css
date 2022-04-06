@@ -29,3 +29,17 @@ h3{
 header{
     background-color: #EAC926 ;
 }
+
+.main-image{
+    margin: 30px;
+    width: 40%;
+}
+
+.busqueda{
+    margin-left: 20px;
+
+}
+
+.idolar{
+    margin-left: 60px;
+}
